@@ -1,0 +1,26 @@
+C:\Users\Dishant\Desktop\DC Classes\Semester 2\NETDEV\Dishant_Lab4\Dishant_Lab4\bin\Debug\Dishant_Lab4.exe.config
+C:\Users\Dishant\Desktop\DC Classes\Semester 2\NETDEV\Dishant_Lab4\Dishant_Lab4\obj\Debug\Dishant_Lab4.vbprojResolveAssemblyReference.cache
+C:\Users\Dishant\Desktop\DC Classes\Semester 2\NETDEV\Dishant_Lab4\Dishant_Lab4\obj\Debug\Dishant_Lab4.frmTextEditor.resources
+C:\Users\Dishant\Desktop\DC Classes\Semester 2\NETDEV\Dishant_Lab4\Dishant_Lab4\obj\Debug\Dishant_Lab4.Resources.resources
+C:\Users\Dishant\Desktop\DC Classes\Semester 2\NETDEV\Dishant_Lab4\Dishant_Lab4\obj\Debug\Dishant_Lab4.vbproj.GenerateResource.Cache
+C:\Users\Dishant\Desktop\DC Classes\Semester 2\NETDEV\Dishant_Lab4\Dishant_Lab4\obj\Debug\Dishant_Lab4.xml
+C:\Users\Dishant\Desktop\DC Classes\Semester 2\NETDEV\Dishant_Lab4\Dishant_Lab4\bin\Debug\Dishant_Lab4.exe
+C:\Users\Dishant\Desktop\DC Classes\Semester 2\NETDEV\Dishant_Lab4\Dishant_Lab4\bin\Debug\Dishant_Lab4.pdb
+C:\Users\Dishant\Desktop\DC Classes\Semester 2\NETDEV\Dishant_Lab4\Dishant_Lab4\bin\Debug\Dishant_Lab4.xml
+C:\Users\Dishant\Desktop\DC Classes\Semester 2\NETDEV\Dishant_Lab4\Dishant_Lab4\obj\Debug\Dishant_Lab4.exe
+C:\Users\Dishant\Desktop\DC Classes\Semester 2\NETDEV\Dishant_Lab4\Dishant_Lab4\obj\Debug\Dishant_Lab4.pdb
+C:\Users\Dishant\Desktop\DC Classes\Semester 2\NETDEV\Dishant_Lab4\Dishant_Lab4\obj\Debug\Dishant_Lab4.frmIndex.resources
+C:\Users\Dishant\Desktop\DC Classes\Semester 2\NETDEV\Dishant_Lab4\Dishant_Lab4\obj\Debug\Dishant_Lab4.frmAbout.resources
+C:\Users\Dishant\Desktop\windows application\Dishant_Lab4\Dishant_Lab4\bin\Debug\Dishant_Lab4.exe.config
+C:\Users\Dishant\Desktop\windows application\Dishant_Lab4\Dishant_Lab4\obj\Debug\Dishant_Lab4.exe
+C:\Users\Dishant\Desktop\windows application\Dishant_Lab4\Dishant_Lab4\obj\Debug\Dishant_Lab4.xml
+C:\Users\Dishant\Desktop\windows application\Dishant_Lab4\Dishant_Lab4\obj\Debug\Dishant_Lab4.pdb
+C:\Users\Dishant\Desktop\windows application\Dishant_Lab4\Dishant_Lab4\bin\Debug\Dishant_Lab4.exe
+C:\Users\Dishant\Desktop\windows application\Dishant_Lab4\Dishant_Lab4\bin\Debug\Dishant_Lab4.pdb
+C:\Users\Dishant\Desktop\windows application\Dishant_Lab4\Dishant_Lab4\bin\Debug\Dishant_Lab4.xml
+C:\Users\Dishant\Desktop\windows application\Dishant_Lab4\Dishant_Lab4\obj\Debug\Dishant_Lab4.vbprojResolveAssemblyReference.cache
+C:\Users\Dishant\Desktop\windows application\Dishant_Lab4\Dishant_Lab4\obj\Debug\Dishant_Lab4.frmTextEditor.resources
+C:\Users\Dishant\Desktop\windows application\Dishant_Lab4\Dishant_Lab4\obj\Debug\Dishant_Lab4.frmAbout.resources
+C:\Users\Dishant\Desktop\windows application\Dishant_Lab4\Dishant_Lab4\obj\Debug\Dishant_Lab4.frmIndex.resources
+C:\Users\Dishant\Desktop\windows application\Dishant_Lab4\Dishant_Lab4\obj\Debug\Dishant_Lab4.Resources.resources
+C:\Users\Dishant\Desktop\windows application\Dishant_Lab4\Dishant_Lab4\obj\Debug\Dishant_Lab4.vbproj.GenerateResource.Cache
